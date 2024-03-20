@@ -117,6 +117,7 @@ html{
     position: relative;
     margin-top: 46px; ;
     padding-top: 50%; 
+    /* nói chung là để cái ảnh cùng cấp với cs file css rồi gọi trực tiếp là đc */  
     /* để chiều cao luôn bằng 50% chiều dài */
     background: url('logo.png') top center / contain no-repeat;
     z-index: 0;
