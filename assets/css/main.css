@@ -120,7 +120,6 @@ html{
     /* để chiều cao luôn bằng 50% chiều dài */
     background: url('/assets/img/logo.png') top center / contain no-repeat;
     z-index: 0;
-
 }
 
 #content{
